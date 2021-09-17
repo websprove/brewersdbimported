@@ -1,7 +1,7 @@
 # brewersdbimported
 Brewers DB 150 Data Imported. 
 
-Demo Page: https://test1.websprove.com/
+Demo Website: https://test1.websprove.com/
 
     Solutions:
     I used a combination of ACF and CPT UI plugins to add the Custom Fileds and Brewers Post type.
