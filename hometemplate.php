@@ -15,7 +15,7 @@ get_header();
 	echo "<div style='padding:20px 30px 0; text-align:center;'>";
 	echo "<ul style='text-align:left; font-weight:bold;'>Solutions:";
 	echo "<li>I used a combination of ACF and CPT UI plugins to add the Custom Fileds and Brewers Post type.</li>";
-	echo "<li>I Imported CSV File Data from Brewers DB Github File: <a href='https://github.com/openbrewerydb/openbrewerydb' target='_blank'>(https://github.com/openbrewerydb/openbrewerydb)</a>.</li>";
+	echo "<li>I Imported CSV File Data from Brewery DB Dataset on Github File: <a href='https://github.com/openbrewerydb/openbrewerydb' target='_blank'>(https://github.com/openbrewerydb/openbrewerydb)</a>.</li>";
 	echo "<li>I Used WP All Import Plugin to import data from CSV file: <a href='https://www.wpallimport.com/' target='_blank'>(https://www.wpallimport.com/)</a>.</li>";
 	echo "<li>I used twenty Twenty-One theme then I created template page for homepage and added a Loop script with a pagination to query the posts.</li>";
 	echo "</ul></div>";
