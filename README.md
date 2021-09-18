@@ -1,5 +1,9 @@
 # brewersdbimported
-Brewers DB 150 Data Imported. 
+
+About:
+Open Brewery DB is a free dataset and API with public information on breweries, cideries, brewpubs, and bottleshops. The goal of Open Brewery DB is to maintain an open-source, community-driven dataset and provide a public API. It is our belief that public information should be freely accessible for the betterment of the beer community and the happiness of web developers and data analysts.
+
+Brewery (https://www.openbrewerydb.org/) DB 150 Data Imported. 
 
 Demo Website: https://test1.websprove.com/
 
