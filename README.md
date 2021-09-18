@@ -7,7 +7,7 @@ Brewery (https://www.openbrewerydb.org/) DB 150 Data Imported.
 
 Demo Website: https://test1.websprove.com/
 
-    Solutions:
+    Solutions using WordPress Platform:
     I used a combination of ACF and CPT UI plugins to add the Custom Fileds and Brewers Post type.
     I Imported CSV File Data from Brewers DB Github File: (https://github.com/openbrewerydb/openbrewerydb).
     I Used WP All Import Plugin to import data from CSV file: (https://www.wpallimport.com/).
